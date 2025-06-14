@@ -1,6 +1,6 @@
 # LogiTrack – SaaS Customer Onboarding Tracker
 
-A simulated project built to demonstrate Technical Project Management skills in a SaaS logistics environment like GoComet.
+A simulated project built to demonstrate Technical Project Management skills in a SaaS logistics environment.
 
 ## 🎯 Key Features
 - Onboarding dashboard with customer status and progress
